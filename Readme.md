@@ -22,7 +22,7 @@ Este projeto utiliza o ACF para gerenciar os campos personalizados dos eventos. 
 
 1. **Faça o download do arquivo JSON:**
 
-   - [Clique aqui para baixar o arquivo JSON de configuração do ACF](link-para-o-arquivo.json).
+   - [Clique aqui para baixar o arquivo JSON de configuração do ACF](</includes/acf-export-2024-07-08%20(1).json>).
 
 2. **Importe as configurações no WordPress:**
    - Faça login no painel de administração do WordPress.
