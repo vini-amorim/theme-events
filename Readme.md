@@ -38,3 +38,8 @@ Para facilitar o teste do sistema, você pode usar as seguintes credenciais de a
 
 - **Usuário:** admin1
 - **Senha:** PJio2Hutn)#za9sx1z3%KTLd
+
+## Acesso Remoto
+
+[- Caso prefira testar em um ambiente já hospedado, acesso link abaixo.](https://eventos.viniamorim.dev/).
+https://eventos.viniamorim.dev/
